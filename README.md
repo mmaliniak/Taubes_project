@@ -7,3 +7,5 @@ Project files for "Epidemiology Beyond its Limits"
 3. **Taubesfig.R**: R code for Fig. 1
 4. **PoPCites_clean.csv**: Data for Fig. S1
 5. **Supp Fig 1 - Taubes citation analysis.R**: R code for Fig. S1
+
+<a href="https://zenodo.org/badge/latestdoi/417242323"><img src="https://zenodo.org/badge/417242323.svg" alt="DOI"></a>
